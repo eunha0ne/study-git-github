@@ -13,6 +13,8 @@ int main(int argc, char* argv[])
   printf("수식을 입력하세요(예> 1 + 2): ");
   scanf("%d %c %d", &number1, &operator, &number2);
 
+  // 다른 커밋이 생겼습니다.
+  
   switch (operator)
   {
     case '+':
