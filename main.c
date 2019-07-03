@@ -18,19 +18,23 @@ int main(int argc, char* argv[])
   switch (operator)
   {
     case '+':
-      c = add(a, b);
+      result = add(a, b);
       break;
 
     case '-':
-      c = sub(a, b);
+      result = sub(a, b);
       break;
 
     case '*':
-      c = multi(a, b);
+      result = multi(a, b);
       break;
 
     case '/':
-      c = div(a, b);
+      result = div(a, b);
       break;
   }
+
+  printf("result is %d.\n", result);
+
+  return 0;
 }
