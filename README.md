@@ -9,6 +9,8 @@
 ## References
 
 - [Read: Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
+- [좋은 git 커밋 메시지를 작성하기 위한 8가지 약속](https://djkeh.github.io/articles/How-to-write-a-git-commit-message-kor/)
+- [Read: git](https://git-scm.com/book/ko/v2)
 - [Link: 슬라이드](https://www.slideshare.net/flyskykr/github-46014813?from_m_app=android)
 
 ### 슬라이드, 2019/03 정리 기록
