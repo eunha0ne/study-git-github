@@ -3,7 +3,7 @@
 ### VSCode Extenstions
 
 - Git Graph
-  - `Commpand palette`: 컨트롤 + 쉬프트 + P
+  - `Command palette`: 컨트롤 + 쉬프트 + P
   - Git Graph: View Git Graph (git log)
 
 ## References
