@@ -2,11 +2,12 @@
 
 - Default sell: git bash
 
-## VSCode Extenstions
+## VSCode Extensions
 
 - Git Graph
   - `Command palette`: 컨트롤 + 쉬프트 + P
   - Git Graph: View Git Graph (git log)
+- GitLens
 
 ## 트러블 슈팅
 
