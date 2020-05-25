@@ -1,10 +1,18 @@
 깃 실습을 위한 저장소입니다
 
-### VSCode Extenstions
+- Default sell: git bash
+
+## VSCode Extenstions
 
 - Git Graph
   - `Command palette`: 컨트롤 + 쉬프트 + P
   - Git Graph: View Git Graph (git log)
+
+## 트러블 슈팅
+
+- 권한 관련 경고 메시지: ssh-keygen 해결이 불가능할 때는 자격증명 설정(윈도우) 맥(키체인)을 통해서 해결해 보자
+  - (window): 제어판 --> 자격증명 --> 추가하기 git:https//github.com
+  - (Mac): `컨트롤 + 스페이스바` --> keychain --> github.com
 
 ## References
 
